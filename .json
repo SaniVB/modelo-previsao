@@ -1,0 +1,13 @@
+{
+    "predict": {
+        "url": "/predict",
+        "method": "POST",
+        "description": "Endpoint para fazer previsões",
+        "input": {
+            "input": "array de números"
+        },
+        "output": {
+            "prediction": "array de previsões"
+        }
+    }
+}
